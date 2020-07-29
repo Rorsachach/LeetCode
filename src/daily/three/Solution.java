@@ -1,4 +1,4 @@
-package daily.four;
+package daily.three;
 
 import java.util.*;
 
