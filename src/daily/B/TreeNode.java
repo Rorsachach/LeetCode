@@ -1,4 +1,4 @@
-package daily.two;
+package daily.B;
 
 /**
  * @auther: 卑微小冯
